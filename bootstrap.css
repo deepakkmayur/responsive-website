@@ -1,0 +1,69 @@
+html{
+   margin: 0;
+   padding:0;
+}
+#hp-logo{
+   width:55px;
+   
+}
+.nav-item{
+   font-family:Arial, Helvetica, sans-serif;
+   /* padding-top: 20px; */
+   font-size: 18px;
+}
+#header{
+   width:100%;
+   height: 5em;
+   /* background-color: aqua; */
+   display: flex;
+   
+ 
+}
+#header-left{
+   display: flex;
+}
+.cart{
+   font-size:30px;
+}
+#search-button{
+   border:0;
+   background-color: white;
+}
+#sign-in{
+   color:rgb(165, 21, 21);
+   background-color:#f1f4f5;
+
+}
+#sign-in:hover{
+   color:white;
+   background-color: rgb(7, 7, 126);
+
+}
+#bottom-1-text{
+   background-color:#007aff;
+   color: white;
+   font-size: 1.15em;
+   height: 2.6em;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.bottom-2{
+   /* background-color: aqua; */
+   height: 12rem;
+   line-height: 25px;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+
+}
+.bottom-3{
+  
+   text-align: center;
+   word-spacing: 3rem;
+}
+.bottom-4-text{
+   color: #007aff;
+   background-color: white;
+   text-decoration: 0;
+}
